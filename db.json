@@ -1,1 +1,124 @@
-x
+{
+  "gallery": [
+    {
+      "ID":1,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(1).jpg"
+    },
+    {
+      "ID":2,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(2).jpg"
+    },
+    {
+      "ID":3,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(3).jpg"
+    },
+    {
+      "ID":4,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(4).jpg"
+    },
+    {
+      "ID":5,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(5).jpg"
+    },
+    {
+      "ID":6,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(6).jpg"
+    },
+    {
+      "ID":7,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(7).jpg"
+    },
+    {
+      "ID":8,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(8).jpg"
+    },
+    {
+      "ID":9,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(9).jpg"
+    },
+    {
+      "ID":10,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(10).jpg"
+    },
+    {
+      "ID":11,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(11).jpg"
+    },
+    {
+      "ID":12,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(12).jpg"
+    },
+    {
+      "ID":13,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(13).jpg"
+    },
+    {
+      "ID":14,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(14).jpg"
+    },
+    {
+      "ID":15,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(15).jpg"
+    },
+    {
+      "ID":16,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(16).jpg"
+    },
+    {
+      "ID":17,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(17).jpg"
+    },
+    {
+      "ID":18,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(18).jpg"
+    },
+    {
+      "ID":19,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(19).jpg"
+    },
+    {
+      "ID":20,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(20).jpg"
+    },
+    {
+      "ID":21,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(21).jpg"
+    },
+    {
+      "ID":22,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(22).jpg"
+    },
+    {
+      "ID":23,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(23).jpg"
+    },
+    {
+      "ID":24,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(24).jpg"
+    },
+    {
+      "ID":25,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(25).jpg"
+    },
+    {
+      "ID":26,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(26).jpg"
+    },
+    {
+      "ID":27,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(27).jpg"
+    },
+    {
+      "ID":28,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(28).jpg"
+    },
+    {
+      "ID":29,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(29).jpg"
+    },
+    {
+      "ID":30,
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(30).jpg"
+    }
+  ]
+}
