@@ -2,11 +2,11 @@
   "gallery": [
     {
       "id":1,
-      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(1).jpg"
+      "image": "/static/images/gallery/gallery (1).jpg"
     },
     {
       "id":2,
-      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(2).jpg"
+      "image": "/static/images/gallery/gallery (2).jpg"
     },
     {
       "id":3,
